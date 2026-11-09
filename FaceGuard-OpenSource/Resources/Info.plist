@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDisplayName</key>
+	<string>护屏 FaceGuard</string>
+	<key>CFBundleExecutable</key>
+	<string>FaceGuard</string>
+	<key>CFBundleIdentifier</key>
+	<string>local.faceguard.menubar</string>
+	<key>CFBundleName</key>
+	<string>FaceGuard</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.16</string>
+	<key>CFBundleVersion</key>
+	<string>17</string>
+	<key>LSMinimumSystemVersion</key>
+	<string>13.0</string>
+	<key>LSUIElement</key>
+	<true/>
+	<key>NSCameraUsageDescription</key>
+	<string>在本机检测两张或更多人脸并发出提示，不录制或上传画面。</string>
+	<key>NSHighResolutionCapable</key>
+	<true/>
+</dict>
+</plist>
